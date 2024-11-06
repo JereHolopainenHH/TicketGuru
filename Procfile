@@ -1,0 +1,1 @@
+web: cd ticketguru && ./mvnw spring-boot:run
